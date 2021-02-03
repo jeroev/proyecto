@@ -18,9 +18,10 @@
 
 <p align = "center">Árbol del problema</p>
 
-<p align="center">
-  <img src="https://1.bp.blogspot.com/-fm-AfggChRk/YBnpRlIqeoI/AAAAAAAAAAM/W030jvSz2nc8Henp-XTQc4Cw8SA2ZAx9ACNcBGAsYHQ/w525-h640/Aproblema.PNG" />
-</p>
+    <p align="center">
+      <img src="https://1.bp.blogspot.com/-fm-AfggChRk/YBnpRlIqeoI/AAAAAAAAAAM/W030jvSz2nc8Henp-XTQc4Cw8SA2ZAx9ACNcBGAsYHQ/w525-h640/Aproblema.PNG" />
+    </p>
+
 >>>>>>> feature/problema
 =======
 9. Mockups de la aplicación
