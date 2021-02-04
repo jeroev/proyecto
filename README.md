@@ -1,3 +1,6 @@
+# Andres Felipe Noreña  
+# Jerónimo Echeverri Vásquez
+
 
 1. Introducción
 
